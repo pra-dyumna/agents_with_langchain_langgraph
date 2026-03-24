@@ -1,0 +1,10 @@
+langchain>=1.2.0
+langchain-community>=0.4.1
+langchain-google-genai>=4.1.2
+langchain-huggingface>=1.2.0
+langchain-mcp-adapters>=0.2.1
+langchain-qdrant>=1.1.0
+langchain-text-splitters>=1.1.0
+langgraph==1.0.5
+python-dotenv
+google-genai
