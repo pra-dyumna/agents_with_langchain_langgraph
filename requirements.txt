@@ -8,3 +8,8 @@ langchain-text-splitters>=1.1.0
 langgraph==1.0.5
 python-dotenv
 google-genai
+
+# fastapi==0.111.0
+# uvicorn==0.30.1
+# playwright==1.44.0
+# pydantic==2.7.4
